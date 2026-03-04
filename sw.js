@@ -1,5 +1,5 @@
 
-const CACHE_NAME = 'saba-777-v1';
+const CACHE_NAME = 'JudyVoiceOs7';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
